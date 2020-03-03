@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>_a-0000e32a-e620-8000-d3f4-680000680000_201638</versionUuid>
+    <rule>
+        <name>RTD_IsGPApproved</name>
+        <uuid>_a-0000e32a-e620-8000-d3f4-680000680000_201108</uuid>
+        <description>Expression Rule to check if a particular GP for well is approved/rejected (RTD)</description>
+        <parentUuid>_a-0000d529-9a4b-8000-048c-680000680000_4620</parentUuid>
+        <visibility>
+            <advertise>false</advertise>
+            <hierarchy>true</hierarchy>
+            <indexable>true</indexable>
+            <quota>false</quota>
+            <searchable>true</searchable>
+            <system>false</system>
+            <unlogged>false</unlogged>
+        </visibility>
+        <definition>/*ENHC0025597 - Created to check the status of GP Appoval task by passing IDWELL*/
+with(
+  local!GPApprovedDate: #"SYSTEM_SYSRULES_queryEntity"(
+    entity: #"_a-0000e32a-e620-8000-d3f4-680000680000_201343",
+    query: #"SYSTEM_SYSRULES_query"(
+      filter: #"SYSTEM_SYSRULES_queryFilter"(
+        field: "IDWell",
+        operator: "=",
+        value: ri!IDWell
+      ),
+      pagingInfo: #"SYSTEM_SYSRULES_pagingInfo"(
+        startIndex: 1,
+        batchSize: 1
+      )
+    )
+  ).data,
+  local!CheckGPApprovedComp: if(
+    #"_a-0000d62a-67b3-8000-da6f-010000010000_951"(
+      index(local!GPApprovedDate,"gpApproved","")
+    ),
+    false,
+    if(
+      #"_a-0000d62a-67b3-8000-da6f-010000010000_950"(
+        index(local!GPApprovedDate,"gpApproved","")
+      ),
+      false,
+      true()
+    )
+  ),
+  local!CheckGPApprovedComp
+)</definition>
+        <namedTypedValue>
+            <name>IDWell</name>
+            <type>
+                <name>string</name>
+                <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+            </type>
+            <value/>
+        </namedTypedValue>
+        <preferredEditor>legacy</preferredEditor>
+        <offlineEnabled>false</offlineEnabled>
+    </rule>
+    <roleMap public="true">
+        <role inherit="true" allowForAll="false" name="readers">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="true" allowForAll="false" name="authors">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="true" allowForAll="false" name="administrators">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyReaders">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyAuthors">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyAdministrators">
+            <users/>
+            <groups/>
+        </role>
+    </roleMap>
+    <typedValue>
+        <type>
+            <name>RuleTestConfig?list</name>
+            <namespace>http://www.appian.com/ae/types/2009</namespace>
+        </type>
+        <value>
+            <el>
+                <a:name>GPApprovedWell</a:name>
+                <a:ruleInputTestConfigs>
+                    <a:value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="a:Expression">"7CC6C550D9974628829CE087C48D1A2D"</a:value>
+                    <a:nameRef>IDWell</a:nameRef>
+                    <a:id>1</a:id>
+                </a:ruleInputTestConfigs>
+                <a:assertions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            </el>
+            <el>
+                <a:name>NotGPApprovedWell</a:name>
+                <a:ruleInputTestConfigs>
+                    <a:value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="a:Expression">"EE8CDE00ED4049B49AC2527616E83BE2"</a:value>
+                    <a:nameRef>IDWell</a:nameRef>
+                    <a:id>1</a:id>
+                </a:ruleInputTestConfigs>
+                <a:assertions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            </el>
+        </value>
+    </typedValue>
+    <history>
+        <historyInfo versionUuid="_a-0000e32a-e620-8000-d3f4-680000680000_201638"/>
+    </history>
+</contentHaul>

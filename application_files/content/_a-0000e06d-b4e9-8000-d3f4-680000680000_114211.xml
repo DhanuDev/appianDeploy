@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>_a-0000e32a-e620-8000-d3f4-680000680000_202639</versionUuid>
+    <rule>
+        <name>RTD_unlockGPFromWellView</name>
+        <uuid>_a-0000e06d-b4e9-8000-d3f4-680000680000_114211</uuid>
+        <description>SAIL used to Unlock GP from WellView</description>
+        <parentUuid>_a-0000e04b-de0b-8000-d3f4-680000680000_110123</parentUuid>
+        <visibility>
+            <advertise>false</advertise>
+            <hierarchy>true</hierarchy>
+            <indexable>true</indexable>
+            <quota>false</quota>
+            <searchable>true</searchable>
+            <system>false</system>
+            <unlogged>false</unlogged>
+        </visibility>
+        <definition>load(
+  with(
+    /*ENHC0025597 If Condition &amp; true Value added by Kowsalya 9/6/2019 */
+    if(#"_a-0000e32a-e620-8000-d3f4-680000680000_201108"(ri!wellSummary.well_ID)=false,
+    #"SYSTEM_SYSRULES_formLayout_v1"(label: "Unlock GP - " &amp; ri!wellSummary.wellName,
+    instructions: "The GP associated with this well is already unlocked &amp; will remain unlocked till the GP is Approved."),
+    #"SYSTEM_SYSRULES_formLayout_v1"(
+      label: "Unlock GP - " &amp; ri!wellSummary.wellName,
+      instructions: "To unlock the GP associated with this well click on the 'Unlock' button below.",
+      contents: {
+        #"SYSTEM_SYSRULES_paragraphField"(
+          label: "Comments",
+          labelPosition: "ADJACENT",
+          instructions: "Provide the reason you require the unlocking of the GP associated with this well",
+          required: true,
+          requiredMessage: "Comments cannot be left blank.",
+          value: ri!Comments,
+          saveInto: ri!Comments
+        )
+      },
+      buttons: #"SYSTEM_SYSRULES_ButtonLayout"(
+        primaryButtons: #"SYSTEM_SYSRULES_ButtonWidgetSubmit"(
+          label: "Unlock",
+          value: "Submit",
+          style: "PRIMARY",
+          showWhen: index(
+            ri!ALCStatus_Array,
+            #"_a-0000d3d8-839a-8000-048c-680000680000_1162",
+            ""
+          ) &lt;&gt; #"_a-0000d3d8-839a-8000-048c-680000680000_1165"
+        )
+      )
+    ))
+    
+  )
+)</definition>
+        <namedTypedValue>
+            <name>Comments</name>
+            <type>
+                <name>string</name>
+                <namespace>http://www.w3.org/2001/XMLSchema</namespace>
+            </type>
+            <value/>
+        </namedTypedValue>
+        <namedTypedValue>
+            <name>wellSummary</name>
+            <type>
+                <name>WellSummary</name>
+                <namespace>https://huskydev.appiancloud.com/suite/types/</namespace>
+            </type>
+        </namedTypedValue>
+        <namedTypedValue>
+            <name>ALCStatus_Array</name>
+            <type>
+                <name>Text?list</name>
+                <namespace>http://www.appian.com/ae/types/2009</namespace>
+            </type>
+        </namedTypedValue>
+        <metadataExpr></metadataExpr>
+        <preferredEditor>interface</preferredEditor>
+        <offlineEnabled>false</offlineEnabled>
+    </rule>
+    <roleMap public="true">
+        <role inherit="true" allowForAll="false" name="readers">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="true" allowForAll="false" name="authors">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="true" allowForAll="false" name="administrators">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyReaders">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyAuthors">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyAdministrators">
+            <users/>
+            <groups/>
+        </role>
+    </roleMap>
+    <history>
+        <historyInfo versionUuid="_a-0000e06d-b4e9-8000-d3f4-680000680000_114282"/>
+        <historyInfo versionUuid="_a-0000e06d-b4e9-8000-d3f4-680000680000_115043"/>
+        <historyInfo versionUuid="_a-0000e06d-b4e9-8000-d3f4-680000680000_115783"/>
+        <historyInfo versionUuid="_a-0000e06d-b4e9-8000-d3f4-680000680000_117118"/>
+        <historyInfo versionUuid="_a-0000e06d-b4e9-8000-d3f4-680000680000_118127"/>
+        <historyInfo versionUuid="_a-0000e32a-e620-8000-d3f4-680000680000_202639"/>
+    </history>
+</contentHaul>

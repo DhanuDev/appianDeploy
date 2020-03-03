@@ -1,0 +1,669 @@
+Success (5):
+content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 "RTD_IsGPApproved"
+content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 "RTD_POINTS_TO_MILESTONEDATETABLE"
+content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 "RTD_unlockGPFromWellView"
+processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a "RTD Quick Tasks"
+application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 "ENHC0025597"
+
+Referenced precedents that were not exported (92):
+datatype 608 {https://huskydev.appiancloud.com/suite/types/}WellSummary
+datatype 632 {http://CWF758.hq.huskyenergy.com/suite/types/}RTD_GeoProg_Location
+datatype 2297 {http://CWF758.hq.huskyenergy.com/suite/types/}RTD_GeoProg_Summary
+datatype 2040 {http://CWF758.hq.huskyenergy.com/suite/types/}RTD_GeoProg_Formation
+datatype 796 {http://CWF758.hq.huskyenergy.com/suite/types/}RTD_GeoProg_Sample
+datatype 728 {http://CWF758.hq.huskyenergy.com/suite/types/}RTD_GeoProg_Core
+datatype 640 {http://CWF758.hq.huskyenergy.com/suite/types/}RTD_GeoProg_CoreSideWall
+datatype 564 {http://CWF758.hq.huskyenergy.com/suite/types/}RTD_GeoProg_LoggingCompany
+datatype 592 {http://CWF758.hq.huskyenergy.com/suite/types/}RTD_GeoProg_LoggingDetails
+datatype 2522 {http://CWF758/suite/types/}RTD_GeoProg_License
+datatype 1140 {http://CWF758/suite/types/}RTD_MineralRights
+datatype 1508 {http://CGWAPP050TS/suite/types/}GLOB_WellHeader
+datatype 612 {http://CWF758/suite/types/}RTD_GeoProg_Economics
+datatype 636 {http://CWF758.hq.huskyenergy.com/suite/types/}WBSSummary
+datatype 600 {https://huskydev.appiancloud.com/suite/types/}genericTaskHistory
+dataStore 175 _a-0000d392-abb0-8000-9ba2-011c48011c48_1744
+group 11 _e-0000d3b4-872e-8000-048e-680000680000_8
+group 21 _e-0000d434-e39a-8000-048e-680000680000_187
+group 5 _e-0001d235-5301-8000-5301-64814c64814c_3
+group 17 _e-0000d43d-06dd-8000-048e-680000680000_192
+group 48 _e-0000d48c-928a-8000-048e-680000680000_197
+content 7347 _a-0000d62a-67b3-8000-da6f-010000010000_951
+content 7318 _a-0000d62a-67b3-8000-da6f-010000010000_950
+content 3856 _a-0000d529-9a4b-8000-048c-680000680000_4620
+content 196 _a-0000d374-4a1d-8000-9ba2-011c48011c48_1675
+content 502 _a-0000d3d8-839a-8000-048c-680000680000_1165
+content 599 _a-0000d3d8-839a-8000-048c-680000680000_1162
+content 41814 _a-0000e04b-de0b-8000-d3f4-680000680000_110123
+content 1552 _a-0000d392-abb0-8000-9ba2-011c48011c48_1727
+content 499 _a-0000d3d8-839a-8000-048c-680000680000_854
+content 209 _a-0000d3d8-839a-8000-048c-680000680000_1390
+content 344 b83ef86c-8efc-4bc9-a126-16e14cbde3e8
+content 516 8682f09f-a802-4305-984e-1c906a4c4d19
+content 390 7b923fe2-896c-4e46-bae8-8f2c2860551f
+content 521 5bc2bfe8-121e-46d1-83cd-0e6085203e61
+content 525 _a-0000d3c7-8d92-8000-048c-680000680000_527
+content 520 a6eb9d08-5fd3-4a42-8999-88d00b00d2ad
+content 7039 _a-0000d9b9-c7bc-8000-048c-680000680000_15363
+content 8896 _a-0000da0e-57db-8000-048c-680000680000_24821
+content 737 _a-0000d3c7-8d92-8000-048c-680000680000_535
+content 519 0e868253-74d8-4e87-a75d-d51aaae37b36
+content 530 6addb18c-a269-41cd-8472-6827b94752e6
+content 361 _a-0000d412-04ef-8000-048c-680000680000_1716
+content 2596 _a-0000d465-f8ab-8000-d3f4-680000680000_9832
+content 738 _a-0000d3b4-8731-8000-048c-680000680000_437
+content 5630 _a-0000d823-61d5-8000-048c-680000680000_11136
+content 114 _a-0000d3d8-839a-8000-048c-680000680000_1000
+content 527 _a-0000d3c7-8d92-8000-048c-680000680000_529
+content 524 bbfc446b-cb53-4653-9fd6-0db9c69b0049
+content 522 434bcfdd-bce8-4c75-a045-f566bd0e60e7
+content 162 _a-0000d392-abb0-8000-9ba2-011c48011c48_1845
+content 506 _a-0000d3d8-839a-8000-048c-680000680000_1389
+content 741 _a-0000d3b4-8731-8000-048c-680000680000_431
+content 558 _a-0000d412-04ef-8000-048c-680000680000_1629
+content 748 _a-0000d3c7-8d92-8000-048c-680000680000_526
+content 592 _a-0000d419-47be-8000-048c-680000680000_1769
+content 5639 _a-0000d823-61d5-8000-048c-680000680000_11129
+content 3646 baeb9dbb-f388-40f6-a3f5-6240db25d0df
+content 3857 256cf3b0-e68e-4c18-9169-8286ae4c962c
+content 747 _a-0000d3b4-8731-8000-048c-680000680000_428
+content 528 _a-0000d3c7-8d92-8000-048c-680000680000_530
+content 4994 df5d1244-f354-4579-910c-8ced79b83017
+content 526 _a-0000d3c7-8d92-8000-048c-680000680000_528
+content 214 _a-0000d392-abb0-8000-9ba2-011c48011c48_1711
+content 568 _a-0000d392-abb0-8000-9ba2-011c48011c48_1723
+content 529 _a-0000d3c7-8d92-8000-048c-680000680000_531
+content 532 d4f28b3a-bffb-4e88-8b30-e8866a590a6a
+content 5633 _a-0000d823-61d5-8000-048c-680000680000_11135
+content 7023 _a-0000d9a9-ae52-8000-048c-680000680000_13588
+content 363 _a-0000d412-04ef-8000-048c-680000680000_1630
+content 6060 _a-0000d8f7-bd4b-8000-048c-680000680000_12047
+content 566 _a-0000d392-abb0-8000-9ba2-011c48011c48_1724
+content 531 4ef559b5-8b60-48ae-a845-521d84c7a884
+content 8892 _a-0000da0e-57db-8000-048c-680000680000_24818
+content 41991 _a-0000e0d3-1bf2-8000-d3f4-680000680000_135890
+content 5628 _a-0000d823-61d5-8000-048c-680000680000_11130
+content 518 217b7b4d-4786-4875-8422-758bdc68d4da
+content 4891 _a-0000d6b3-a2ff-8000-048c-680000680000_7116
+processModelFolder 9 _g-0000d374-4a25-8000-f92f-7f0000014e7a_20
+processModel 822 0006d647-b80e-8000-0491-680000680000
+processModel 1539 0024d93b-4812-8000-0491-680000680000
+processModel 66 0006d3ea-e044-8000-0491-680000680000
+processModel 65 0004d419-3be3-8000-0491-680000680000
+processModel 1842 0004d944-1dd4-8000-0491-680000680000
+processModel 63 0002d3f6-76aa-8000-0491-680000680000
+processModel 392 0021d47f-b1fd-8000-0491-680000680000
+processModel 61 0019d414-04fa-8000-0491-680000680000
+processModel 1182 0002d864-58fe-8000-0491-680000680000
+processModel 64 0007d3d1-e10e-8000-0491-680000680000
+processModel 824 0003d647-a981-8000-0491-680000680000
+processModel 62 0008d3ee-b68b-8000-0491-680000680000
+processModel 6121 0002e34f-1ded-8000-d3f5-680000680000
+
+Trace:
+2019-10-13 13:11:59.923 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Begin transport.
+2019-10-13 13:11:59.923 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Retrieving object data.
+2019-10-13 13:11:59.944 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 App associated objects: [content=[_a-0000e32a-e620-8000-d3f4-680000680000_201108, _a-0000e32a-e620-8000-d3f4-680000680000_201343, _a-0000e06d-b4e9-8000-d3f4-680000680000_114211],processModel=[0003d3a4-8114-8000-f92f-7f0000014e7a]]
+2019-10-13 13:11:59.949 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Invalid associated objects: []
+2019-10-13 13:11:59.949 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Adding valid associated objects to be exported: GlobalBindingMap[content={_a-0000e32a-e620-8000-d3f4-680000680000_201108=50007, _a-0000e32a-e620-8000-d3f4-680000680000_201343=50009, _a-0000e06d-b4e9-8000-d3f4-680000680000_114211=50158},processModel={0003d3a4-8114-8000-f92f-7f0000014e7a=67}]
+2019-10-13 13:11:59.949 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Setting uuids of object references.
+2019-10-13 13:11:59.949 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Processing reference: Application.forum
+2019-10-13 13:11:59.95 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Processing reference: Application.parent
+2019-10-13 13:11:59.962 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Processing reference: com.appiancorp.suiteapi.content.ContentRoleMap@eaa642b[
+  ContentRole[name=readers,inherit=false,allowForAll=false]
+  ContentRole[name=authors,inherit=false,allowForAll=false]
+  ContentRole[name=administrators,inherit=false,allowForAll=false]
+  ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+  ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+  ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+  securityVector=1:SEC_PUBLIC=true,SEC_CREATOR_ADMIN=false,SEC_INH_ADMIN=false,SEC_INH_EDITOR=false,SEC_INH_VIEWER=false,SEC_ALL_ADMIN=false,SEC_ALL_EDITOR=false,SEC_ALL_VIEWER=false
+]
+2019-10-13 13:11:59.962 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Processing reference: ContentRole[name=readers,inherit=false,allowForAll=false]
+2019-10-13 13:11:59.962 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Processing reference: ContentRole[name=authors,inherit=false,allowForAll=false]
+2019-10-13 13:11:59.962 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Processing reference: ContentRole[name=administrators,inherit=false,allowForAll=false]
+2019-10-13 13:11:59.962 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Processing reference: ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+2019-10-13 13:11:59.962 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Processing reference: ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+2019-10-13 13:11:59.962 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Processing reference: ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+2019-10-13 13:12:00.032 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Begin transport.
+2019-10-13 13:12:00.032 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Retrieving object data.
+2019-10-13 13:12:00.344 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Setting uuids of object references.
+2019-10-13 13:12:00.344 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Processing reference: [Content:id=49937,versionId=-1,name=RTD_IsGPApproved,type=32,subtype=1,uuid=_a-0000e32a-e620-8000-d3f4-680000680000_201108,parent=3856]
+2019-10-13 13:12:00.354 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Processing reference: FreeformRule.forum
+2019-10-13 13:12:00.355 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Processing reference: TypedVariable[name=IDWell,it=3,v=]
+2019-10-13 13:12:00.357 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Processing reference: FreeformRule.parent
+2019-10-13 13:12:00.361 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Processing reference: com.appiancorp.suiteapi.content.ContentRoleMap@97ffb58[
+  ContentRole[name=readers,inherit=true,allowForAll=false]
+  ContentRole[name=authors,inherit=true,allowForAll=false]
+  ContentRole[name=administrators,inherit=true,allowForAll=false]
+  ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+  ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+  ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+  securityVector=15:SEC_PUBLIC=true,SEC_CREATOR_ADMIN=false,SEC_INH_ADMIN=true,SEC_INH_EDITOR=true,SEC_INH_VIEWER=true,SEC_ALL_ADMIN=false,SEC_ALL_EDITOR=false,SEC_ALL_VIEWER=false
+]
+2019-10-13 13:12:00.361 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Processing reference: ContentRole[name=readers,inherit=true,allowForAll=false]
+2019-10-13 13:12:00.361 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Processing reference: ContentRole[name=authors,inherit=true,allowForAll=false]
+2019-10-13 13:12:00.361 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Processing reference: ContentRole[name=administrators,inherit=true,allowForAll=false]
+2019-10-13 13:12:00.361 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Processing reference: ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+2019-10-13 13:12:00.361 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Processing reference: ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+2019-10-13 13:12:00.361 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Processing reference: ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+2019-10-13 13:12:00.363 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Completing produce.
+2019-10-13 13:12:00.363 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Exporting binary resources.
+2019-10-13 13:12:00.363 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Serializing object to XML.
+2019-10-13 13:12:00.372 DEBUG content 50007 _a-0000e32a-e620-8000-d3f4-680000680000_201108 Object transported.
+2019-10-13 13:12:00.372 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Begin transport.
+2019-10-13 13:12:00.372 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Retrieving object data.
+2019-10-13 13:12:00.392 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Setting uuids of object references.
+2019-10-13 13:12:00.392 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Processing reference: [Content:id=49967,versionId=-1,name=RTD_POINTS_TO_MILESTONEDATETABLE,type=32,subtype=0,uuid=_a-0000e32a-e620-8000-d3f4-680000680000_201343,parent=196]
+2019-10-13 13:12:00.396 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Processing reference: Constant.forum
+2019-10-13 13:12:00.396 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Processing reference: Constant.parent
+2019-10-13 13:12:00.401 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Processing reference: com.appiancorp.suiteapi.content.ContentRoleMap@6e319a28[
+  ContentRole[name=readers,inherit=true,allowForAll=false]
+  ContentRole[name=authors,inherit=true,allowForAll=false]
+  ContentRole[name=administrators,inherit=true,allowForAll=false]
+  ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+  ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+  ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+  securityVector=15:SEC_PUBLIC=true,SEC_CREATOR_ADMIN=false,SEC_INH_ADMIN=true,SEC_INH_EDITOR=true,SEC_INH_VIEWER=true,SEC_ALL_ADMIN=false,SEC_ALL_EDITOR=false,SEC_ALL_VIEWER=false
+]
+2019-10-13 13:12:00.401 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Processing reference: ContentRole[name=readers,inherit=true,allowForAll=false]
+2019-10-13 13:12:00.401 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Processing reference: ContentRole[name=authors,inherit=true,allowForAll=false]
+2019-10-13 13:12:00.401 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Processing reference: ContentRole[name=administrators,inherit=true,allowForAll=false]
+2019-10-13 13:12:00.401 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Processing reference: ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+2019-10-13 13:12:00.401 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Processing reference: ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+2019-10-13 13:12:00.401 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Processing reference: ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+2019-10-13 13:12:00.401 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Completing produce.
+2019-10-13 13:12:00.401 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Exporting binary resources.
+2019-10-13 13:12:00.401 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Serializing object to XML.
+2019-10-13 13:12:00.405 DEBUG content 50009 _a-0000e32a-e620-8000-d3f4-680000680000_201343 Object transported.
+2019-10-13 13:12:00.405 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Begin transport.
+2019-10-13 13:12:00.405 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Retrieving object data.
+2019-10-13 13:12:00.422 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Setting uuids of object references.
+2019-10-13 13:12:00.422 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: [Content:id=41849,versionId=-1,name=RTD_unlockGPFromWellView,type=32,subtype=1,uuid=_a-0000e06d-b4e9-8000-d3f4-680000680000_114211,parent=41814]
+2019-10-13 13:12:00.426 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: FreeformRule.forum
+2019-10-13 13:12:00.426 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: TypedVariable[name=Comments,it=3,v=]
+2019-10-13 13:12:00.426 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: TypedVariable[name=wellSummary,it=608,v=<null>]
+2019-10-13 13:12:00.427 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: TypedVariable[name=ALCStatus_Array,it=103,v=<null>]
+2019-10-13 13:12:00.428 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: FreeformRule.parent
+2019-10-13 13:12:00.446 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: com.appiancorp.suiteapi.content.ContentRoleMap@2f72173[
+  ContentRole[name=readers,inherit=true,allowForAll=false]
+  ContentRole[name=authors,inherit=true,allowForAll=false]
+  ContentRole[name=administrators,inherit=true,allowForAll=false]
+  ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+  ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+  ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+  securityVector=15:SEC_PUBLIC=true,SEC_CREATOR_ADMIN=false,SEC_INH_ADMIN=true,SEC_INH_EDITOR=true,SEC_INH_VIEWER=true,SEC_ALL_ADMIN=false,SEC_ALL_EDITOR=false,SEC_ALL_VIEWER=false
+]
+2019-10-13 13:12:00.446 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: ContentRole[name=readers,inherit=true,allowForAll=false]
+2019-10-13 13:12:00.446 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: ContentRole[name=authors,inherit=true,allowForAll=false]
+2019-10-13 13:12:00.446 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: ContentRole[name=administrators,inherit=true,allowForAll=false]
+2019-10-13 13:12:00.446 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+2019-10-13 13:12:00.446 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+2019-10-13 13:12:00.446 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Processing reference: ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+2019-10-13 13:12:00.446 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Completing produce.
+2019-10-13 13:12:00.446 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Exporting binary resources.
+2019-10-13 13:12:00.446 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Serializing object to XML.
+2019-10-13 13:12:00.452 DEBUG content 50158 _a-0000e06d-b4e9-8000-d3f4-680000680000_114211 Object transported.
+2019-10-13 13:12:00.461 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Begin transport.
+2019-10-13 13:12:00.461 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Retrieving object data.
+2019-10-13 13:12:00.837 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Setting uuids of object references.
+2019-10-13 13:12:00.837 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessModelHaul.folderId
+2019-10-13 13:12:00.839 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessModelHaul.modelDashboardPageId
+2019-10-13 13:12:00.84 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessModelHaul.processDashboardPageId
+2019-10-13 13:12:00.84 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessModel.emailAttachmentFolderId
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=IDREC]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=IDWELL]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question4]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Untitled]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question1]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question14]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question15]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question19]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question21]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question21]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question21]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question21]
+2019-10-13 13:12:00.848 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question21]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question22]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question23]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question18]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question19]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question20]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question21]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question22]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question23]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question24]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question25]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question26]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question27]
+2019-10-13 13:12:00.849 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@66215730
+2019-10-13 13:12:00.851 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=fired,it=1,v=0]
+2019-10-13 13:12:00.851 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=arrivedNodes,it=101,v=<null>]
+2019-10-13 13:12:00.851 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=surfaceLoc,it=632,v=<null>]
+2019-10-13 13:12:00.852 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=targetLoc,it=632,v=<null>]
+2019-10-13 13:12:00.852 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=bottomholeLoc,it=632,v=<null>]
+2019-10-13 13:12:00.852 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=startLoc,it=632,v=<null>]
+2019-10-13 13:12:00.852 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=finishLoc,it=632,v=<null>]
+2019-10-13 13:12:00.852 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=geoProgHeader,it=2297,v=<null>]
+2019-10-13 13:12:00.852 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.852 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Surface Location]
+2019-10-13 13:12:00.852 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.852 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Target Location]
+2019-10-13 13:12:00.854 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Bottomhole Location]
+2019-10-13 13:12:00.854 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.854 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.854 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Horizontal Segment]
+2019-10-13 13:12:00.854 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.854 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.854 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.858 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.858 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=<null>]
+2019-10-13 13:12:00.858 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={}]
+2019-10-13 13:12:00.858 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.859 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=]
+2019-10-13 13:12:00.859 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=1]
+2019-10-13 13:12:00.859 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.859 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=0]
+2019-10-13 13:12:00.859 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=<null>]
+2019-10-13 13:12:00.859 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={}]
+2019-10-13 13:12:00.859 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.859 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=]
+2019-10-13 13:12:00.859 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=1]
+2019-10-13 13:12:00.859 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.859 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=0]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=formations,it=2041,v=<null>]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Remarks]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Spacing]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Warnings]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Formation]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Top]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Formations]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Fluid]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Lithology]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Pay]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Priority]
+2019-10-13 13:12:00.86 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.863 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Prob]
+2019-10-13 13:12:00.863 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Coring]
+2019-10-13 13:12:00.863 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=DST]
+2019-10-13 13:12:00.863 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Spacing Details]
+2019-10-13 13:12:00.863 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.863 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.863 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=samples,it=797,v=<null>]
+2019-10-13 13:12:00.863 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=cores,it=729,v=<null>]
+2019-10-13 13:12:00.864 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=sideWallCores,it=641,v=<null>]
+2019-10-13 13:12:00.864 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=loggingCompany,it=565,v=<null>]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=loggingDetail,it=593,v=<null>]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Comments]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Purpose]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Nb Samples]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Type]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Remarks]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=From Depth]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Increment Depth]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=To Depth]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Type]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Purpose]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Bottom Hole Cores]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Top Depth (m)]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Top]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Bottom]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Scale]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Track Scale Details]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Logging]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Bottom Depth (m)]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Log Type]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Logging Program]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Remarks]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Log Run Details]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Logging Company]
+2019-10-13 13:12:00.865 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Sample Type]
+2019-10-13 13:12:00.866 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Side Wall Cores]
+2019-10-13 13:12:00.866 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Samples]
+2019-10-13 13:12:00.866 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Comments]
+2019-10-13 13:12:00.866 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Comments]
+2019-10-13 13:12:00.866 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.869 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Cores]
+2019-10-13 13:12:00.869 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.869 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=geoProgHeader,it=2297,v=<null>]
+2019-10-13 13:12:00.87 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Untitled Section]
+2019-10-13 13:12:00.87 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.87 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.87 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.87 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.87 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.87 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.87 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.87 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.873 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.873 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.873 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@201298f
+2019-10-13 13:12:00.873 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=LicenseInformation,it=2522,v=<null>]
+2019-10-13 13:12:00.874 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=License Cancelled Date]
+2019-10-13 13:12:00.874 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Untitled Section]
+2019-10-13 13:12:00.874 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=License Application Date]
+2019-10-13 13:12:00.874 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.874 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=License Number]
+2019-10-13 13:12:00.874 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=License Issued Date]
+2019-10-13 13:12:00.874 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.877 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.877 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@23c5958b
+2019-10-13 13:12:00.877 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=FormationMineralRights,it=1141,v=<null>]
+2019-10-13 13:12:00.878 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.878 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Formation Name]
+2019-10-13 13:12:00.878 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Mineral File]
+2019-10-13 13:12:00.878 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.879 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Contract Sub]
+2019-10-13 13:12:00.879 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Stale Date]
+2019-10-13 13:12:00.879 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Unit File Number]
+2019-10-13 13:12:00.879 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Mineral Sub]
+2019-10-13 13:12:00.879 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Contract File]
+2019-10-13 13:12:00.879 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Unit File Sub]
+2019-10-13 13:12:00.879 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.879 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.881 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.881 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.881 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=822]
+2019-10-13 13:12:00.883 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=ALCStatusArray],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=IDRec_Text],ActivityClassParameter[name=sppv,it=3,v=]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=WellSummary],ActivityClassParameter[name=sppv,it=608,v=<null>]}]}]
+2019-10-13 13:12:00.885 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.885 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.885 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.885 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0006d647-b80e-8000-0491-680000680000]
+2019-10-13 13:12:00.885 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.885 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.885 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=0]
+2019-10-13 13:12:00.885 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=1]
+2019-10-13 13:12:00.885 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.885 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=1539]
+2019-10-13 13:12:00.887 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=WellHeader],ActivityClassParameter[name=sppv,it=1508,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=canUserUpdateSecurityFlag_Bool],ActivityClassParameter[name=sppv,it=26,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=currentAccessGroup_Group],ActivityClassParameter[name=sppv,it=5,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=qtInitiator_User],ActivityClassParameter[name=sppv,it=4,v=]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=syncList_Text],ActivityClassParameter[name=sppv,it=103,v=<null>]}]}]
+2019-10-13 13:12:00.887 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={ActivityClassParameter[name=oneOutputMap,it=11,v={ActivityClassParameter[name=spvn,it=3,v=currentAccessGroup_Group],ActivityClassParameter[name=spvv,it=5,v=<null>]}]}]
+2019-10-13 13:12:00.887 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.887 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.887 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0024d93b-4812-8000-0491-680000680000]
+2019-10-13 13:12:00.887 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.887 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.887 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=1]
+2019-10-13 13:12:00.888 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=1]
+2019-10-13 13:12:00.889 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.889 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=66]
+2019-10-13 13:12:00.891 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=wellSummary],ActivityClassParameter[name=sppv,it=608,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=ALCStatus_Array],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=ALCCordinator_People],ActivityClassParameter[name=sppv,it=27,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=WellHeader],ActivityClassParameter[name=sppv,it=1508,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=syncList_Text],ActivityClassParameter[name=sppv,it=103,v=<null>]}]}]
+2019-10-13 13:12:00.891 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.891 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.891 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.893 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0006d3ea-e044-8000-0491-680000680000]
+2019-10-13 13:12:00.893 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.893 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.893 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=1]
+2019-10-13 13:12:00.893 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=0]
+2019-10-13 13:12:00.894 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.894 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=65]
+2019-10-13 13:12:00.896 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=wellSummary],ActivityClassParameter[name=sppv,it=608,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=NTFSubscription_People],ActivityClassParameter[name=sppv,it=127,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=WellHeader],ActivityClassParameter[name=sppv,it=1508,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=syncList_Text],ActivityClassParameter[name=sppv,it=103,v=<null>]}]}]
+2019-10-13 13:12:00.897 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.897 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.897 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.897 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0004d419-3be3-8000-0491-680000680000]
+2019-10-13 13:12:00.897 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.897 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.897 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=1]
+2019-10-13 13:12:00.897 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=0]
+2019-10-13 13:12:00.898 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.898 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=1842]
+2019-10-13 13:12:00.9 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=ReferenceID],ActivityClassParameter[name=sppv,it=103,v=<null>]}]}]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0004d944-1dd4-8000-0491-680000680000]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=0]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=0]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=<null>]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={}]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=]
+2019-10-13 13:12:00.901 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=1]
+2019-10-13 13:12:00.902 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.902 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=0]
+2019-10-13 13:12:00.902 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question1]
+2019-10-13 13:12:00.902 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question2]
+2019-10-13 13:12:00.902 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question3]
+2019-10-13 13:12:00.902 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.902 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=63]
+2019-10-13 13:12:00.904 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=ALCStatus_Array],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=IDRec],ActivityClassParameter[name=sppv,it=3,v=]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=wellSummary],ActivityClassParameter[name=sppv,it=608,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=NTFSubscription_People],ActivityClassParameter[name=sppv,it=127,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=WellHeader],ActivityClassParameter[name=sppv,it=1508,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=syncList_Text],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=zzUpdateMilestonesBool],ActivityClassParameter[name=sppv,it=26,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDMilestoneDateQueueList_DateTime],ActivityClassParameter[name=sppv,it=109,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDMilestoneTypeQueueList_Int],ActivityClassParameter[name=sppv,it=101,v=<null>]}]}]
+2019-10-13 13:12:00.904 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.904 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.904 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.905 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0002d3f6-76aa-8000-0491-680000680000]
+2019-10-13 13:12:00.905 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.905 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.905 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=1]
+2019-10-13 13:12:00.905 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=0]
+2019-10-13 13:12:00.905 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question1]
+2019-10-13 13:12:00.905 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question2]
+2019-10-13 13:12:00.905 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question3]
+2019-10-13 13:12:00.905 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.905 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=392]
+2019-10-13 13:12:00.906 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=Economics_WBSHeader],ActivityClassParameter[name=sppv,it=3,v=]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=wellSummary],ActivityClassParameter[name=sppv,it=608,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=NTFSubscription_People],ActivityClassParameter[name=sppv,it=127,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDDataWriteReqd_Bool],ActivityClassParameter[name=sppv,it=26,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDMilestoneDateQueueList_DateTime],ActivityClassParameter[name=sppv,it=109,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDMilestoneTypeQueueList_Int],ActivityClassParameter[name=sppv,it=101,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=zzUpdateMilestonesBool],ActivityClassParameter[name=sppv,it=26,v=<null>]}]}]
+2019-10-13 13:12:00.907 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.907 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.907 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.907 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0021d47f-b1fd-8000-0491-680000680000]
+2019-10-13 13:12:00.907 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.907 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.907 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=0]
+2019-10-13 13:12:00.907 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=1]
+2019-10-13 13:12:00.907 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question1]
+2019-10-13 13:12:00.907 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question2]
+2019-10-13 13:12:00.907 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question3]
+2019-10-13 13:12:00.908 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.908 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=61]
+2019-10-13 13:12:00.91 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=ALCStatus_Array],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=criticalDateTime],ActivityClassParameter[name=sppv,it=9,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=parentPid],ActivityClassParameter[name=sppv,it=1,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=routingSlipTaskId],ActivityClassParameter[name=sppv,it=1,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=taskKey],ActivityClassParameter[name=sppv,it=1,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=wellSummary],ActivityClassParameter[name=sppv,it=608,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=NTFSubscription_People],ActivityClassParameter[name=sppv,it=127,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=WellHeader],ActivityClassParameter[name=sppv,it=1508,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=syncList_Text],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDMilestoneDateQueueList_DateTime],ActivityClassParameter[name=sppv,it=109,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDMilestoneTypeQueueList_Int],ActivityClassParameter[name=sppv,it=101,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=zzUpdateMilestonesBool],ActivityClassParameter[name=sppv,it=26,v=<null>]}]}]
+2019-10-13 13:12:00.911 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.911 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.911 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.911 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0019d414-04fa-8000-0491-680000680000]
+2019-10-13 13:12:00.911 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.911 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.911 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=1]
+2019-10-13 13:12:00.911 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=0]
+2019-10-13 13:12:00.911 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question1]
+2019-10-13 13:12:00.912 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question2]
+2019-10-13 13:12:00.912 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question3]
+2019-10-13 13:12:00.912 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.912 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=1182]
+2019-10-13 13:12:00.914 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=currentUser_User],ActivityClassParameter[name=sppv,it=4,v=]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=legID_Int],ActivityClassParameter[name=sppv,it=1,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=wellboreID_Int],ActivityClassParameter[name=sppv,it=1,v=<null>]}]}]
+2019-10-13 13:12:00.914 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.914 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.914 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.914 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0002d864-58fe-8000-0491-680000680000]
+2019-10-13 13:12:00.914 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.914 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.914 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=0]
+2019-10-13 13:12:00.914 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=0]
+2019-10-13 13:12:00.914 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question1]
+2019-10-13 13:12:00.915 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.915 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=64]
+2019-10-13 13:12:00.917 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=NTFSubscription_People],ActivityClassParameter[name=sppv,it=127,v=<null>]}]}]
+2019-10-13 13:12:00.917 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.917 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.917 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.917 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0007d3d1-e10e-8000-0491-680000680000]
+2019-10-13 13:12:00.917 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.917 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.917 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=0]
+2019-10-13 13:12:00.917 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=0]
+2019-10-13 13:12:00.917 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=defaultNode,it=1,v=11]
+2019-10-13 13:12:00.918 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=rules,it=111,v={ActivityClassParameter[name=rule,it=11,v={ActivityClassParameter[name=expression,it=26,v=<null>],ActivityClassParameter[name=node,it=1,v=16],ActivityClassParameter[name=label,it=3,v=]}]}]
+2019-10-13 13:12:00.918 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=fired,it=1,v=0]
+2019-10-13 13:12:00.918 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=arrivedNodes,it=101,v=<null>]
+2019-10-13 13:12:00.919 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=TaskOwner,it=103,v=<null>]
+2019-10-13 13:12:00.919 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Task Name]
+2019-10-13 13:12:00.919 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.919 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Completed By]
+2019-10-13 13:12:00.919 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Comments]
+2019-10-13 13:12:00.919 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Completed On]
+2019-10-13 13:12:00.919 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.919 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.922 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.922 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@384184b3
+2019-10-13 13:12:00.923 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question1]
+2019-10-13 13:12:00.923 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question2]
+2019-10-13 13:12:00.923 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question3]
+2019-10-13 13:12:00.923 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question4]
+2019-10-13 13:12:00.923 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.923 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=824]
+2019-10-13 13:12:00.925 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=ALCStatus_array],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=WellSummary],ActivityClassParameter[name=sppv,it=608,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=pvNTFSubscription_People],ActivityClassParameter[name=sppv,it=127,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=wellIDRec_Text],ActivityClassParameter[name=sppv,it=3,v=]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDMilestoneDateQueueList_DateTime],ActivityClassParameter[name=sppv,it=109,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDMilestoneTypeQueueList_Int],ActivityClassParameter[name=sppv,it=101,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=WellHeader],ActivityClassParameter[name=sppv,it=1508,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=syncList_Text],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=zzUpdateMilestonesBool],ActivityClassParameter[name=sppv,it=26,v=<null>]}]}]
+2019-10-13 13:12:00.925 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.926 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.926 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0003d647-a981-8000-0491-680000680000]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=1]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=0]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question1]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question2]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question3]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question4]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question5]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.927 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=62]
+2019-10-13 13:12:00.929 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=ALCStatus_Array],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=IDRec],ActivityClassParameter[name=sppv,it=3,v=]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=IDWell],ActivityClassParameter[name=sppv,it=3,v=]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=Wellsummary],ActivityClassParameter[name=sppv,it=608,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=NTFSubscription_People],ActivityClassParameter[name=sppv,it=127,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=HoldUntil_Date],ActivityClassParameter[name=sppv,it=9,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=WellHeader],ActivityClassParameter[name=sppv,it=1508,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=syncList_Text],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=HoldByException],ActivityClassParameter[name=sppv,it=26,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDMilestoneDateQueueList_DateTime],ActivityClassParameter[name=sppv,it=109,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDMilestoneTypeQueueList_Int],ActivityClassParameter[name=sppv,it=101,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=zzUpdateMilestonesBool],ActivityClassParameter[name=sppv,it=26,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=Exception_text],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=HoldStatusArray_Bool],ActivityClassParameter[name=sppv,it=126,v=<null>]}]}]
+2019-10-13 13:12:00.929 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.929 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.929 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.929 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0008d3ee-b68b-8000-0491-680000680000]
+2019-10-13 13:12:00.929 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=1]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=1]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=EconomicsData,it=612,v=<null>]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=EconomicSummaries,it=637,v=<null>]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Cost Center]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=WBS:]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=FLOC Description]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=FLOC #]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=WBS Header]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.931 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=WBS]
+2019-10-13 13:12:00.934 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.934 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@3eccf66b
+2019-10-13 13:12:00.934 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.934 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.934 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.934 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.936 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.939 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.939 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.939 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.943 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.943 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.943 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.947 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.947 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.947 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.95 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.95 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.95 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.954 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.954 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.954 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.959 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.96 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.96 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.964 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.964 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=priority,it=1,v=<null>]
+2019-10-13 13:12:00.964 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Priority]
+2019-10-13 13:12:00.964 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.964 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Update Priority]
+2019-10-13 13:12:00.968 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.968 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@2d99c7fb
+2019-10-13 13:12:00.97 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=currentStatusComments,it=3,v=]
+2019-10-13 13:12:00.97 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Current Status Comments]
+2019-10-13 13:12:00.97 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Label]
+2019-10-13 13:12:00.97 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Update Current Status Comments]
+2019-10-13 13:12:00.972 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=]
+2019-10-13 13:12:00.972 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@73348132
+2019-10-13 13:12:00.974 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=taskDisplayName,it=3,v=]
+2019-10-13 13:12:00.974 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@32e9dac6
+2019-10-13 13:12:00.976 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=taskDisplayName,it=3,v=]
+2019-10-13 13:12:00.976 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@488697a5
+2019-10-13 13:12:00.978 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=taskDisplayName,it=3,v=]
+2019-10-13 13:12:00.978 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@7c45c317
+2019-10-13 13:12:00.981 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=taskDisplayName,it=3,v=]
+2019-10-13 13:12:00.981 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@2b2fe0bc
+2019-10-13 13:12:00.983 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=taskDisplayName,it=3,v=]
+2019-10-13 13:12:00.983 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.Assignment$Assignee@57ec30f5
+2019-10-13 13:12:00.986 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question1]
+2019-10-13 13:12:00.986 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question2]
+2019-10-13 13:12:00.986 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question3]
+2019-10-13 13:12:00.986 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: FormElement[label=Question4]
+2019-10-13 13:12:00.986 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: InternalForm.docId
+2019-10-13 13:12:00.987 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=Instructions,it=3,v=]
+2019-10-13 13:12:00.987 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmID,it=23,v=6121]
+2019-10-13 13:12:00.989 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inMap,it=111,v={ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=wellSummary],ActivityClassParameter[name=sppv,it=608,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=costCenter],ActivityClassParameter[name=sppv,it=3,v=]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=ALCStatus_Array],ActivityClassParameter[name=sppv,it=103,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=RTDDataWriteReqd_Bool],ActivityClassParameter[name=sppv,it=26,v=<null>]}],ActivityClassParameter[name=oneInputMap,it=11,v={ActivityClassParameter[name=sppn,it=3,v=zzUpdateMilestonesBool],ActivityClassParameter[name=sppv,it=26,v=<null>]}]}]
+2019-10-13 13:12:00.989 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=outMap,it=111,v={}]
+2019-10-13 13:12:00.989 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=subProcessID,it=1,v=<null>]
+2019-10-13 13:12:00.989 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=procInheritsPriority,it=1,v=1]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=pmUUID,it=3,v=0002e34f-1ded-8000-d3f5-680000680000]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isAsynchronous,it=26,v=0]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=isTransparent,it=26,v=1]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=inheritSecurity,it=26,v=1]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ActivityClassParameter[name=chainsInto,it=26,v=0]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=ALCCoordinator_People,it=27,v=<null>]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=ALCStatusArray,it=103,v={}]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=Economics_WBSHeader,it=3,v=]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=FLOCDesc_Text,it=3,v=]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=FLOCNumber_Text,it=3,v=]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=GenericTaskHistoryList,it=601,v=<null>]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=HoldStatusArray_Bool,it=126,v=<null>]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=HoldUntil_Date,it=9,v=<null>]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=IDRecTxt,it=3,v=]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=IDWellTxt,it=3,v=]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=License_ApplicationDate,it=9,v=<null>]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=License_CancelDate,it=9,v=<null>]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=License_IssueDate,it=9,v=<null>]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=NTFSubscription_People,it=127,v=<null>]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=RTDDataWriteReqd_Bool,it=26,v=<null>]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=RTDMilestoneDateQueueList_DateTime,it=109,v={}]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=RTDMilestoneTypeQueueList_Int,it=101,v={}]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=RTDProcessPIdInt,it=1,v=0]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=RoutingSlipInitiator_User,it=4,v=]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=WellHeader,it=1508,v=<null>]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=canUpdateCostCenter,it=26,v=<null>]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=costCenter,it=3,v=]
+2019-10-13 13:12:00.99 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=processViewersPeople,it=127,v=<null>]
+2019-10-13 13:12:00.991 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=syncList_Text,it=103,v={}]
+2019-10-13 13:12:00.991 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=userEnteredCurrentStatusComments,it=3,v=]
+2019-10-13 13:12:00.991 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=userEnteredPriority,it=1,v=0]
+2019-10-13 13:12:00.991 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=username,it=3,v=]
+2019-10-13 13:12:00.991 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=wellSummary,it=608,v=<null>]
+2019-10-13 13:12:00.991 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=zzCurrentAccessGroup_Group,it=5,v=<null>]
+2019-10-13 13:12:00.991 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=zzQTInitiator_User,it=4,v=]
+2019-10-13 13:12:00.991 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=zzSecurityChangeFlag_Bool,it=26,v=<null>]
+2019-10-13 13:12:00.991 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: ProcessVariable[name=zzUpdateMilestonesBool,it=26,v=<null>]
+2019-10-13 13:12:00.991 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: com.appiancorp.suiteapi.process.ProcessRoleMap@19b7b54a[
+  Role[name=ADMIN_OWNER]
+  Role[name=EDITOR]
+  Role[name=EXPLICIT_NONMEMBER]
+  Role[name=VIEWER,groupIds=[11]]
+  Role[name=MANAGER]
+  Role[name=INITIATOR]
+]
+2019-10-13 13:12:00.991 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: Role[name=ADMIN_OWNER]
+2019-10-13 13:12:00.992 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: Role[name=EDITOR]
+2019-10-13 13:12:00.992 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: Role[name=EXPLICIT_NONMEMBER]
+2019-10-13 13:12:00.992 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: Role[name=VIEWER,groupIds=[11]]
+2019-10-13 13:12:00.995 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: Role[name=MANAGER]
+2019-10-13 13:12:00.995 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Processing reference: Role[name=INITIATOR]
+2019-10-13 13:12:01.203 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Completing produce.
+2019-10-13 13:12:01.203 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Exporting binary resources.
+2019-10-13 13:12:01.203 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Serializing object to XML.
+2019-10-13 13:12:01.391 DEBUG processModel 67 0003d3a4-8114-8000-f92f-7f0000014e7a Object transported.
+2019-10-13 13:12:01.391 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Completing produce.
+2019-10-13 13:12:01.391 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Exporting binary resources.
+2019-10-13 13:12:01.391 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Serializing object to XML.
+2019-10-13 13:12:01.393 DEBUG application 49897 _a-0000e32a-e620-8000-d3f4-680000680000_200873 Object transported.
